@@ -1,0 +1,12 @@
+abstract class Media implements Comparable<Media>
+{	
+	protected String title;
+ 	public String getTitle()  { return title; }
+
+	public int compareTo(Media m) {
+		// Actually, I think we can use String compareTo
+		return (this.getTitle().compareTo(m.getTitle()));
+		
+	}
+		
+}

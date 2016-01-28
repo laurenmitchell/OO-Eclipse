@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Users/laurenmitchell/Documents/OO Eclipse/.metadata/.plugins/org.eclipse.jdt.core
+1337400684.index
